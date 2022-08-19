@@ -15,10 +15,10 @@ class App extends React.Component {
           <SolarSystem />
         </div>
         <div>
-          <Title headline="teste" />
+          <Title headline="" />
         </div>
         <div>
-          <PlanetCard planetName="name" planetImage="image" />
+          <PlanetCard planetName="" planetImage="" />
         </div>
 
       </header>
